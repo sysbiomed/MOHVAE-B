@@ -1,0 +1,27 @@
+# --- Core Data Science & Plotting ---
+numpy
+pandas
+polars
+scipy
+matplotlib
+seaborn
+
+# --- Machine Learning & Deep Learning ---
+torch
+torchvision
+torchaudio
+scikit-learn
+shap
+
+# --- Optimization & Probabilistic Modeling ---
+optuna
+pgmpy
+networkx
+
+# --- Biology & Bioinformatics ---
+biopython
+
+# --- Utilities & Environment ---
+requests
+python-dotenv
+ipython
