@@ -16,8 +16,8 @@ Key features:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Fredd124/mscthesis_24-25_MEIC.git
-cd mscthesis_24-25_MEIC
+git clone https://github.com/sysbiomed/MOHVAE-B.git
+cd MOHVAE-B
 ```
 
 2. Install the requirements:
