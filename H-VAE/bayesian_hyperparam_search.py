@@ -71,7 +71,7 @@ n_splits = 5
 if save_split:
     save_stratified_splits(clinical_df, "PANCAN", n_splits)
 
-def objective(trial): # For stage 2, need adpatation to run for phase 1 again. Change params and fill the params with original space values
+def objective(trial): # For stage 2
     params = {
         'hidden_dim': trial.suggest_categorical('hidden_dim', original_space['hidden_dim']),
         'central_dim': trial.suggest_categorical('central_dim', original_space['central_dim']),
